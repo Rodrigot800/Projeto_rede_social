@@ -40,13 +40,13 @@ iframe#tela{
 }
 #icones{
     position: absolute;
-    top: 5vh;
-    right: 2vh;
+    top: 1px;
+    right: 0px;
     
 }
 section#icones> a > img{
-    width: 60px;
-    margin: 10px;
+    width: 50px;
+    margin: 5px;
     border-radius: 50%;
     box-shadow: 5px 5px 10px black;
     box-sizing: border-box;
